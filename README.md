@@ -1,2 +1,3 @@
 # OpenVPN Access Server With Unlimited Licences 
-Currently available only for docker
+Make sure to install zip and unzip before executing the script 
+
