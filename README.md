@@ -2,7 +2,7 @@
 Make sure to install zip and unzip before executing the script 
 
 <code>
-1) Download the file **openvpn_as_license_unlocker**
+1) Download the file openvpn_as_license_unlocker
 2) chmod u+x openvpn_as_license_unlocker
 3) ./openvpn_as_license_unlocker
 </code>
