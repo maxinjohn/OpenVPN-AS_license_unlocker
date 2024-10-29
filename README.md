@@ -11,7 +11,7 @@ chmod u+x openvpn_as_license_unlocker
 ---
 </code>
 
-  **hooray**  start using OpenVPN-AS with unlimited licensees, when you update the OpenVPN-as server,  your license will be revoked. Make sure to run the script again to patch again.
+  **hooray**  start using OpenVPN-AS with unlimited licenses, when you update the OpenVPN-as server,  your license will be revoked. Make sure to run the script again to patch again.
 
 
 
