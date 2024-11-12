@@ -1,6 +1,8 @@
 # OpenVPN Access Server With Unlimited Licences 
 Make sure to install zip and unzip before executing the script 
 
+Works with any OpenVPN Access server Install with any RHEL/Debian Based OS if you face any issues let me know.
+
 <code>
 Download the file openvpn_as_license_unlocker and execute as root 
 ---
