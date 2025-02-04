@@ -12,7 +12,7 @@ if you face any issues let me know.
 ---
 Please donate $20 for my work and you will get lifetime OpenVPN license access
 
-Please paypal to maxinjohn@hotmail.com , send the screenshot to the email support@techamigo.in , after that I will grant the install
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/maxinjohn/20) send the screenshot to the email support@techamigo.in , after that I will grant the install
 
 --- 
 
